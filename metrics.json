@@ -1,0 +1,23 @@
+{
+    "precision": {
+      "Alluvial soil": 1.00,
+      "Black Soil": 1.00,
+      "Clay soil": 0.95,
+      "Red soil": 1.00
+    },
+    "recall": {
+      "Alluvial soil": 0.98,
+      "Black Soil": 1.00,
+      "Clay soil": 0.99,
+      "Red soil": 1.00
+    },
+    "f1_score": {
+      "Alluvial soil": 0.9876,
+      "Black Soil": 0.9978,
+      "Clay soil": 0.9704,
+      "Red soil": 1.00
+    },
+    "minimum_f1_score": 0.9704,
+    "accuracy": 0.99
+  }
+  
